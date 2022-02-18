@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
     <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
     <h3 align="center">I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. I don't know what everyone thinks about me. Nobody has ever called me a wizard. Still, I take pride in the fact that I'm a good, solid programmer. One who works hard at his craft and really enjoys it.Other than this, I love Music....</h3>
     
@@ -36,5 +28,4 @@
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekchauhan9036&show_icons=true&locale=en" alt="abhishekchauhan9036" /></p>
     
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchauhan9036&" alt="abhishekchauhan9036" /></p>
-</body>
-</html>
+
